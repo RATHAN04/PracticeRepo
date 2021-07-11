@@ -8,6 +8,7 @@ Created on Fri Mar  5 13:14:30 2021
 import csv
 with open('F:/Python/TreeOrdersSubset.csv', mode='r') as infile:
     reader = csv.reader(infile)
+	print('Hello')
     mydict = {}
     for row in reader:
         if row[0] not in mydict:
