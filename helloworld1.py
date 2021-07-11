@@ -4,6 +4,7 @@ Created on Fri Mar  5 10:29:26 2021
 
 @author: Lenovo
 """
+print('Hello')
 numbers = dict(x=5, y=0)
 print('numbers =', numbers)
 print(type(numbers))
