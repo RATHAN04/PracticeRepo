@@ -7,7 +7,8 @@
  ********************************************************************************/
 
 #include "day03.h"
-
+#include <stdio.h>
+#include <stdlib.h>
 /*********************************************************************************************************
 * Function Name---inputString
 * Description: It takes the input string from the user
